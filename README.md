@@ -28,7 +28,7 @@ The game was realized in the frame of the course [CS-444 Virtual Reality](https:
 - [Gianni Lodetti](https://github.com/Gianniii)
 
 ## How to play
-The game was built as an **.apk** file of 139 MB. Download the game from [here](https://drive.google.com/file/d/11GLue_6yvf3JiYeFwc-NR2a00tw4diwA/view?usp=sharing) (if the download link expires, please contact me). To install on your Oculus Quest an apk that does not come from the oculus quest store, you can follow one of the many tutorials on the web, like [this one](https://www.youtube.com/watch?v=WIbSYRc0ICk).
+The game was built as an **.apk** file of 139 MB. Download the game from [here](https://drive.google.com/file/d/1yoMO7DvzGHbTIXzVv_sKqLk7c2I2NTZt/view?usp=sharing) (if the download link expires, please contact me). To install on your Oculus Quest an apk that does not come from the oculus quest store, you can follow one of the many tutorials on the web, like [this one](https://www.youtube.com/watch?v=WIbSYRc0ICk).
 
 ## Gameplay Trailer
 The GIF and video that follow contain some gameplay scenes that might represent a **spoiler** of the solution of some riddles in the game. Be aware of this before watching them, if you want to play the game. Since GitHub doesn't let upload videos bigger than 10MB, the video had to be compressed and the quality is much lower than the original.  :(
